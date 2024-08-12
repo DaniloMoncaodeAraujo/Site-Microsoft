@@ -126,9 +126,6 @@ header {
     }
 
      a:hover{
-            font-size: 1.3rem;
-            font-weight: 600;
-            transition: 0.5s linear !important;
             color: #000;
         }
 
