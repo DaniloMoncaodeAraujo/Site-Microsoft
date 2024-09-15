@@ -9,8 +9,8 @@
     transition: 0.5s linear !important;
 }
 
-body {
-    overflow-x: hidden;
+main {
+    overflow-x: hidden !important;
 }
 
 header {
